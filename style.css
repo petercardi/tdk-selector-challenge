@@ -9,3 +9,9 @@ h2 {
 .items h2 {
   color: green;
 }
+
+.items>h2:nth-of-type(1) {
+  color: red;
+}
+
+
